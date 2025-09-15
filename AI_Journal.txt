@@ -1,0 +1,6 @@
+AI Usage Journal One 
+Muhammad Wasay
+mwasay@umd.edu
+Section 0202
+Week 1: This week, while working on the exercise on Google Colab, there were a few places where I used AI to help me debug some silly mistakes as well as to ask it to give examples for certain concepts as over the years I have forgotten some basics on python, my most recent time coding on this had to have been my freshmen year of college, and then some during some computer sciecne courses in high school. The first 13 exercises went fairly smooth for me didn't need any AI for that. But when I got to exercise 14 ,I had to ask it on what exactly pages_per_day= total_pages / max(days_until_due, 1). This line meant that it was given in the instructions just so I had an understanding of what I needed to print. And the only other place I used AI for exercise 26, it was actually a silly mistake that I could not figure out because I was not looking closley my code was write but my spelling for author were off with my defintion and the print function. Because they were different, I was unable to identify what the issue was so I had to ask and figured it was the writing. Overall ,while using chat GPT for some of these things I did see that it was able to help in terms of giving examples for things like excersise 14 and just being able to explain to you what exactly a certain line of code does. 
+
